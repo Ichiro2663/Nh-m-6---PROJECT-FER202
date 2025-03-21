@@ -27,12 +27,12 @@ function Login({ onLogin }) {
     const handleSubmit = (event) => {
         event.preventDefault();
 
-        const user = users.find((u) => u.email === email && u.password === password); // Cần mã hóa mật khẩu
+        const user = users.find((u) => u.email === email && u.password === password);
 
         if (user) {
             setError('');
             onLogin(user);
-            navigate('/HomePage');
+            navigate('/');
         } else {
             setError('Email hoặc mật khẩu không đúng.');
         }
@@ -83,4 +83,22 @@ function Login({ onLogin }) {
     );
 }
 
-export default Login;
+// Example of how to use the Login component in App.js or your main component
+function App() {
+    const handleLogin = (user) => {
+        console.log('User logged in:', user);
+        // Here you would typically set the user in your application's state
+        // so that other components can access it.  For example using useState:
+        // setLoggedInUser(user);
+    };
+
+    return (
+        <div>
+            {/* Other components and routing logic */}
+            <Login onLogin={handleLogin} />
+            {/* Other components and routing logic */}
+        </div>
+    );
+}
+
+export default App;
