@@ -177,7 +177,7 @@
             "name": "Nho đỏ",
             "description": "Nho đỏ Mỹ, giòn ngọt.",
             "price": 95000,
-            "image": "http://media.bizwebmedia.net/sites/99161/data/Upload/2015/3/nho_do_khong_hat_my.jpg",
+            "image": "https://media.loveitopcdn.com/1254/nho-do-khong-hat-my-nhobonmuacom.png",
             "categoryId": 3,
             "stock": 40
           },
@@ -495,5 +495,67 @@
         "rating": 4,
         "comment": "Rau tươi, giá hợp lý."
       }
-    ]
+    ],
+    "blogs": [
+    {
+      "id": 1,
+      "title": "Thế nào là thực phẩm sạch và an toàn? Tiêu chí đánh giá và lựa chọn thực phẩm sạch",
+      "author": "admin",
+      "date": "08/06/2023",
+      "image": "https://blog.vmcvietnam.org/wp-content/uploads/2023/06/the-nao-la-thuc-pham-sach-va-an-toan-1.jpg",
+      "excerpt": "Thực phẩm sạch và an toàn ảnh hưởng lớn đến sức khỏe. Vậy làm thế nào để lựa chọn thực phẩm sạch?",
+      "content": "Thực phẩm sạch và an toàn có ảnh hưởng rất lớn đến sức khỏe của tất cả mọi người. Tuy nhiên, trong cuộc sống công nghiệp và hiện đại như hiện nay, việc lựa chọn được thực phẩm sạch đối với các bà nội trợ thực sự là một bài toán khó. Vậy, thế nào là thực phẩm sạch và an toàn? làm thế nào để lựa chọn được thực phẩm sạch cho gia đình? Những tiêu chí để đánh giá và phân loại thực phẩm an toàn cho sức khỏe là gì? Mọi người hãy theo dõi nội dung chia sẻ dưới đây để có được thông tin chính xác nhất.",
+      "link": "/blog/1"
+    },
+    {
+      "id": 2,
+      "title": "Ăn ngon mặt đẹp: TOP 15 loại thực phẩm giúp dưỡng trắng da từ bên trong",
+      "author": "peachyy",
+      "date": "04/03/2025",
+      "image": "https://bloganchoi.com/wp-content/uploads/2025/03/an-gi-duong-trang-da-5-1068x569.jpg",
+      "excerpt": "Vì sao bạn dưỡng trắng da liên tục mà da vẫn đen? Có thể do bạn đang ăn những thực phẩm không phù hợp!",
+      "content": "Vì sao bạn dưỡng trắng da liên tục mà da vẫn đen? Là bởi vì bạn luôn ăn những thứ khiến da bị đen còn dễ bắt nắng. Hãy tích cực ăn những thực phẩm này để dưỡng trắng da từ bên trong nhé.\n\nCác thực phẩm bao gồm: chanh, cà chua, dưa chuột, quả anh đào, dâu tây, quả táo, củ cải trắng, nho, đậu Hà Lan, đậu phụ, bí đao, cà rốt, súp lơ xanh, kiwi, các loại hạt, nấm trắng và trà xanh.",
+      "link": "/blog/2"
+    },
+    {
+      "id": 3,
+      "title": "Tiêu chuẩn GlobalGAP – Định nghĩa thực phẩm sạch toàn cầu",
+      "author": "admin",
+      "date": "10/06/2023",
+      "image": "https://blog.vmcvietnam.org/wp-content/uploads/2023/06/the-nao-la-thuc-pham-sach-va-an-toan-3.jpg",
+      "excerpt": "GlobalGAP là tiêu chuẩn giúp kiểm soát thực phẩm an toàn từ sản xuất đến tiêu dùng.",
+      "content": "GlobalGap là một phương pháp thực hành sản xuất nông nghiệp tiên tiến nhất toàn cầu hiện nay. Tiêu chuẩn đánh giá GlobalGap yêu cầu nhà sản xuất phải thiết lập được hệ thống kiểm tra giám sát an toàn thực phẩm trong suốt quá trình. Đảm bảo xuyên suốt từ khâu chuẩn bị sản xuất đến khi thu hoạch, chế biến và bảo quản.",
+      "link": "/blog/3"
+    },
+    {
+      "id": 4,
+      "title": "Thực phẩm hữu cơ và lợi ích của tiêu chuẩn hữu cơ",
+      "author": "admin",
+      "date": "11/06/2023",
+      "image": "https://blog.vmcvietnam.org/wp-content/uploads/2023/06/the-nao-la-thuc-pham-sach-va-an-toan-4.jpg",
+      "excerpt": "Thực phẩm hữu cơ không chứa hóa chất, đảm bảo sức khỏe và an toàn cho người tiêu dùng.",
+      "content": "Thực phẩm hữu cơ là những thực phẩm hoàn toàn không sử dụng các hóa chất tổng hợp như phân bón hóa học, thuốc trừ sâu, hormone tăng trưởng. Thay vào đó là tập trung vào sử dụng các phương pháp tự nhiên, bền vững và tôn trọng môi trường để nuôi trồng cây trồng và chăn nuôi động vật.",
+      "link": "/blog/4"
+    },
+    {
+      "id": 5,
+      "title": "Các loại thực phẩm sạch phổ biến hiện nay",
+      "author": "admin",
+      "date": "12/06/2023",
+      "image": "https://blog.vmcvietnam.org/wp-content/uploads/2023/06/the-nao-la-thuc-pham-sach-va-an-toan.jpg",
+      "excerpt": "Các loại thực phẩm sạch bao gồm rau hữu cơ, thịt hữu cơ và thực phẩm biển hữu cơ.",
+      "content": "Thực phẩm sạch bao gồm các loại thực phẩm được sản xuất và xử lý theo các tiêu chuẩn và quy trình đảm bảo về chất lượng và an toàn đối với sức khỏe người sử dụng. Một số loại thực phẩm sạch phổ biến gồm:\n\n- Rau và quả hữu cơ: Trồng và chăm sóc bằng phương pháp hữu cơ, không sử dụng phân bón hóa học.\n- Thịt và sản phẩm động vật hữu cơ: Thịt, trứng, sữa từ động vật được nuôi bằng thức ăn hữu cơ.\n- Các sản phẩm nông sản hữu cơ: Bao gồm các loại ngũ cốc như lúa mì, gạo.\n- Thực phẩm biển hữu cơ: Hải sản, tảo biển nuôi trồng theo phương pháp hữu cơ.",
+      "link": "/blog/5"
+    },
+    {
+      "id": 6,
+      "title": "Tiêu chuẩn VietGAP trong đánh giá thực phẩm sạch",
+      "author": "admin",
+      "date": "09/06/2023",
+      "image": "https://blog.vmcvietnam.org/wp-content/uploads/2023/06/the-nao-la-thuc-pham-sach-va-an-toan-2.jpg",
+      "excerpt": "Tiêu chuẩn VietGAP giúp đánh giá thực phẩm an toàn với 4 tiêu chí quan trọng.",
+      "content": "VietGAP là một phương pháp thực hành sản xuất nông nghiệp tiên tiến của Việt Nam, được dùng để đánh giá thực phẩm an toàn và sạch, đảm bảo sức khỏe con người. Các tiêu chuẩn đánh giá của VietGAP dựa trên 4 tiêu chí:\n\n1. Kỹ thuật sản xuất phải đạt tiêu chuẩn nghiêm ngặt.\n2. Đảm bảo khi thu hoạch không có hóa chất nhiễm khuẩn hoặc gây ô nhiễm.\n3. Dễ dàng truy tìm nguồn gốc thực phẩm.\n4. Môi trường sản xuất không lạm dụng sức lao động.",
+      "link": "/blog/6"
+    }
+  ]
   }
