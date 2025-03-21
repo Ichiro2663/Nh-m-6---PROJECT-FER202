@@ -3,7 +3,8 @@ import HomePage from './components/HomePage';
 import CategoryPage from './components/CategoryPage';
 import ProductDetail from './components/ProductDetail';
 import SearchResultsPage from './components/SearchResultPage';
-
+import Login from './components/Login';
+import Register from './components/Register';
 function App() {
   return (
     <BrowserRouter>
