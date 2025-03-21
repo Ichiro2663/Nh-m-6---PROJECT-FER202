@@ -33,16 +33,20 @@ export default function Header() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto align-items-center">
-            <Dropdown>
-              <Dropdown.Toggle variant="success">Danh mục</Dropdown.Toggle>
-              <Dropdown.Menu>
-                {categories.map((category) => (
-                  <Dropdown.Item as={Link} to={`/category/${category.id}`} key={category.id}>
-                    {category.name}
-                  </Dropdown.Item>
-                ))}
-              </Dropdown.Menu>
-            </Dropdown>
+          <Dropdown>
+  <Dropdown.Toggle variant="success">Danh mục</Dropdown.Toggle>
+  <Dropdown.Menu>
+    {categories.map((category) => (
+      <Dropdown.Item as={Link} to={`/category/${category.id}`} key={category.id}>
+        {category.name}
+      </Dropdown.Item>
+    ))}
+    <Dropdown.Divider />
+    <Dropdown.Item as={Link} to="/products" className="fw-bold text-success">
+      Tất cả
+    </Dropdown.Item>
+  </Dropdown.Menu>
+</Dropdown>
           </Nav>
 
           <Form className="d-flex mx-auto" onSubmit={handleSearch}>
